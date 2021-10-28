@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Marianaliima/clean-node-api/issues"
   },
-  "homepage": "https://github.com/Marianaliima/clean-node-api#readme"
+  "homepage": "https://github.com/Marianaliima/clean-node-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
